@@ -21,7 +21,7 @@ Dataset for Validation: https://www.kaggle.com/datasets/spellsharp/garbage-data/
     - Frozen Model Macro F1-Score: 0.6820
     - Fine-Tuned Model Validation Accuracy: 71.36%
     - Fine-Tuned Model Macro F1-Score: 0.7809      
-  -  MobileNetV3-Large Results:
+  - MobileNetV3-Large Results:
     - Frozen Model Validation Accuracy:  74.89%
     - Frozen Model Macro F1-Score: 0.8401
     - Fine-Tuned Model Validation Accuracy: 77.77%
