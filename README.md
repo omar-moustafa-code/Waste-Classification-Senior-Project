@@ -16,4 +16,13 @@ Dataset for Validation: https://www.kaggle.com/datasets/spellsharp/garbage-data/
 - Train/Test/Validation Split
 - Computation of Class Weights
 - Baseline CNN Experimentations (MobileNetV2 and MobileNetV3-Large)
-  - xxx  
+  - MobileNetV2 Results:
+    - Frozen Model Validation Accuracy:  62.50%
+    - Frozen Model Macro F1-Score: 0.6820
+    - Fine-Tuned Model Validation Accuracy: 71.36%
+    - Fine-Tuned Model Macro F1-Score: 0.7809      
+  -  MobileNetV3-Large Results:
+    - Frozen Model Validation Accuracy:  74.89%
+    - Frozen Model Macro F1-Score: 0.8401
+    - Fine-Tuned Model Validation Accuracy: 77.77%
+    - Fine-Tuned Model Macro F1-Score: 0.8366      
