@@ -1,7 +1,7 @@
 # Waste-Classification-Senior-Project
 
 ## Project Overview
-This senior project aims to accurately classify waste material images into several categories using deep learning (DL) models to support and enhance the field of automated waste sorting. 
+This senior project aims to accurately classify waste material images into several categories using machine learning (ML) and deep learning (DL) models to support and enhance the field of automated waste sorting. 
 
 ## Datasets
 Dataset for Training: https://www.kaggle.com/datasets/wasifmahmood01/custom-waste-classification-dataset
