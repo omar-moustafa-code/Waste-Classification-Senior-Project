@@ -8,7 +8,7 @@ Dataset for Training: https://www.kaggle.com/datasets/wasifmahmood01/custom-wast
 
 Dataset for Validation: https://www.kaggle.com/datasets/spellsharp/garbage-data/data
 
-## Current Progress
+## Current Progress (as of December 2025)
 - Dataset Loading & Inspection
 - Data Cleaning (Detecting the presence of any corrupted images)
 - Class Distribution Analysis
